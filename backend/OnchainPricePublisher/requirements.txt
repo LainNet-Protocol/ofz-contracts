@@ -1,0 +1,5 @@
+requests
+web3>=5.20.0,<7.0.0
+python-dotenv
+apscheduler
+eth_abi>=4.0.0
